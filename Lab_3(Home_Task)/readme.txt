@@ -1,3 +1,5 @@
+Lab_3(home_task)
+
 Q: Blow on the sensor and observe whether it detects minor changes in temperature and humidity.
 Ans: As the sensor detects minor changes in the atmosphere, it displays them. I have experienced this by blowing near the sensor the values will increase and decrease depending on the speed of the blow. 
 
